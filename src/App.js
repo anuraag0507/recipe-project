@@ -1,7 +1,7 @@
 import './App.scss';
 import Header from './components/Header'
 import Tabs from './components/Tabs'
-import RecipeLists from './components/RecipeLists'
+ import RecipeLists from './components/RecipeLists'
 import { useState } from 'react';
 
 function App() {
